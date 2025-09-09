@@ -66,3 +66,5 @@ The chances of getting a result like this is .00000003405 meaning that they are 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+When comparing C39 and C52 in the box plot it showed us that the C52 box is higher than the C39 box. This means that the C59 is significantly more different than the C39. Then in the favstats we are shown that the Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52 which is 58, which means it is significantly different and the probability of getting the other number was very small. Later in the T.Test we find out that getting a result like that has a .00000003405 chance which means they are not alike at all. That is how we found out how C39 and C52 are different. 
