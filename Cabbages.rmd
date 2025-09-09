@@ -41,6 +41,8 @@ I looked at the helper date and deciding which one to use, I decided to use the 
 boxplot(VitC~Cult,data=veggy)
 ```
 
+This is measuring the amount of vitamin C content that is dependent upon the cultivation. The C52 box is higher than the C39 box. This means that the C59 is significantly more different than the C39.    
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
