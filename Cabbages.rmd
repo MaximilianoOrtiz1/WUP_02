@@ -51,6 +51,8 @@ This is measuring the amount of vitamin C content that is dependent upon the cul
 favstats(VitC~Cult,data=veggy)
 ```
 
+The Q3 for C39 has a value of 54.75 which is lower than the Q1 for C52 which is 58. Normally a result where the Q3 is higher than the Q1 means that they are significantly different. The probability of getting the other number is very small. 
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
